@@ -1,0 +1,9 @@
+public class RecursiveReducationsByHalf {
+
+    public static void main (String[] argv)
+    {
+	int N = 15;
+	int k = reductions (N, 0);
+    }
+
+}
